@@ -70,7 +70,7 @@ SOlve Rate,
 Avg CSAT, 
 Avg Quality Score, 
 Attendence %, 
-Aux %,
+Aux %
 
 # Dashboard Screenshots
 **EXECUTIVE SUMMARY**
