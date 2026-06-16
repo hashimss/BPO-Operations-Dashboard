@@ -64,13 +64,13 @@ Relationships:
 All fact tables are connected to shared dimensions (Agent, Brand, Date, and Team) through one-to-many relationships, enabling cross-functional analysis across attendance, productivity, quality, customer satisfaction, and operational performance.
 
 # KPIs
-Total Calls
-Total Cases Worked
-SOlve Rate
-Avg CSAT
-Avg Quality Score
-Attendence %
-Aux %
+Total Calls, 
+Total Cases Worked, 
+SOlve Rate, 
+Avg CSAT, 
+Avg Quality Score, 
+Attendence %, 
+Aux %,
 
 # Dashboard Screenshots
 **EXECUTIVE SUMMARY**
